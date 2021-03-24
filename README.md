@@ -5,5 +5,5 @@ It is model trained using 'Flickr_8k' Dataset which predicts caption for the pro
 library:Keras </br>
 language:Python </br>
 model:VGG16 </br>
-Evalution:Blue Score
+Evalution:Blue Score </br>
 Uses:Image search tools, guidance tools for disables, self-driving cars,etc.
